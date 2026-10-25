@@ -1,0 +1,121 @@
+Country Name,Country Code,Region,Income Group,Year,Debt Value
+China,CHN,East Asia & Pacific,Upper middle income,2024,2420000000000.0
+India,IND,South Asia,Lower middle income,2024,716000000000.0
+Brazil,BRA,Latin America & Caribbean,Upper middle income,2024,605000000000.0
+Mexico,MEX,Latin America & Caribbean,Upper middle income,2024,591000000000.0
+Turkiye,TUR,Europe & Central Asia,Upper middle income,2024,515000000000.0
+Indonesia,IDN,East Asia & Pacific,Upper middle income,2024,421000000000.0
+Argentina,ARG,Latin America & Caribbean,Upper middle income,2024,242000000000.0
+Colombia,COL,Latin America & Caribbean,Upper middle income,2024,202000000000.0
+Ukraine,UKR,Europe & Central Asia,Upper middle income,2024,193000000000.0
+Thailand,THA,East Asia & Pacific,Upper middle income,2024,192000000000.0
+South Africa,ZAF,Sub-Saharan Africa,Upper middle income,2024,176000000000.0
+Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,2024,168000000000.0
+"Egypt, Arab Rep.",EGY,Middle East & North Africa,Lower middle income,2024,156000000000.0
+Philippines,PHL,East Asia & Pacific,Lower middle income,2024,137000000000.0
+Viet Nam,VNM,East Asia & Pacific,Lower middle income,2024,133000000000.0
+Pakistan,PAK,Middle East & North Africa,Lower middle income,2024,130000000000.0
+Nigeria,NGA,Sub-Saharan Africa,Lower middle income,2024,109000000000.0
+Bangladesh,BGD,South Asia,Lower middle income,2024,104000000000.0
+Peru,PER,Latin America & Caribbean,Upper middle income,2024,93268743432.0
+Uzbekistan,UZB,Europe & Central Asia,Lower middle income,2024,70256401084.0
+Mozambique,MOZ,Sub-Saharan Africa,Low income,2024,69765373430.0
+Morocco,MAR,Middle East & North Africa,Lower middle income,2024,67993946129.0
+Lebanon,LBN,Middle East & North Africa,Lower middle income,2024,67389006707.0
+Ecuador,ECU,Latin America & Caribbean,Upper middle income,2024,60364730466.0
+Angola,AGO,Sub-Saharan Africa,Lower middle income,2024,58733063314.0
+Sri Lanka,LKA,South Asia,Lower middle income,2024,56827528394.0
+Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,2024,53293949023.0
+Serbia,SRB,Europe & Central Asia,Upper middle income,2024,51983619467.0
+Senegal,SEN,Sub-Saharan Africa,Lower middle income,2024,47146494530.0
+Jordan,JOR,Middle East & North Africa,Lower middle income,2024,46966040105.0
+Kenya,KEN,Sub-Saharan Africa,Lower middle income,2024,42886127218.0
+Cote d'Ivoire,CIV,Sub-Saharan Africa,Lower middle income,2024,40560965965.0
+Tunisia,TUN,Middle East & North Africa,Lower middle income,2024,40459855368.0
+Mongolia,MNG,East Asia & Pacific,Upper middle income,2024,38016581521.0
+Ghana,GHA,Sub-Saharan Africa,Lower middle income,2024,37414621430.0
+Ethiopia,ETH,Sub-Saharan Africa,,2024,36548259483.0
+Tanzania,TZA,Sub-Saharan Africa,Lower middle income,2024,36343119612.0
+Belarus,BLR,Europe & Central Asia,Upper middle income,2024,34217084775.0
+Paraguay,PRY,Latin America & Caribbean,Upper middle income,2024,29963457224.0
+Zambia,ZMB,Sub-Saharan Africa,Lower middle income,2024,28117735301.0
+Guatemala,GTM,Latin America & Caribbean,Upper middle income,2024,27058876459.0
+Georgia,GEO,Europe & Central Asia,Upper middle income,2024,25163122116.0
+El Salvador,SLV,Latin America & Caribbean,Upper middle income,2024,24961880871.0
+Sudan,SDN,Sub-Saharan Africa,Low income,2024,22020660463.0
+Cambodia,KHM,East Asia & Pacific,Lower middle income,2024,20977325204.0
+Uganda,UGA,Sub-Saharan Africa,Low income,2024,20534369198.0
+Mauritius,MUS,Sub-Saharan Africa,Upper middle income,2024,20364236676.0
+Lao PDR,LAO,East Asia & Pacific,Lower middle income,2024,17836681020.0
+Iraq,IRQ,Middle East & North Africa,Upper middle income,2024,17517006333.0
+Armenia,ARM,Europe & Central Asia,Upper middle income,2024,16396165489.0
+Cameroon,CMR,Sub-Saharan Africa,Lower middle income,2024,15770789430.0
+Bolivia,BOL,Latin America & Caribbean,Lower middle income,2024,15717587539.0
+Nicaragua,NIC,Latin America & Caribbean,Lower middle income,2024,15490530048.0
+Jamaica,JAM,Latin America & Caribbean,Upper middle income,2024,14836981078.0
+Zimbabwe,ZWE,Sub-Saharan Africa,Lower middle income,2024,14403740330.0
+Honduras,HND,Latin America & Caribbean,Lower middle income,2024,14299817843.0
+Benin,BEN,Sub-Saharan Africa,Lower middle income,2024,14162933687.0
+Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,2024,13888491676.0
+Rwanda,RWA,Sub-Saharan Africa,Low income,2024,13050400791.0
+Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,2024,12854160688.0
+North Macedonia,MKD,Europe & Central Asia,Upper middle income,2024,12837215392.0
+"Congo, Dem. Rep.",COD,Sub-Saharan Africa,Low income,2024,12484889882.0
+Azerbaijan,AZE,Europe & Central Asia,Upper middle income,2024,12199421517.0
+Kyrgyz Republic,KGZ,Europe & Central Asia,Lower middle income,2024,11689916630.0
+Myanmar,MMR,East Asia & Pacific,Lower middle income,2024,11174807782.0
+Burkina Faso,BFA,Sub-Saharan Africa,Low income,2024,10845161721.0
+Albania,ALB,Europe & Central Asia,Upper middle income,2024,10712630801.0
+Moldova,MDA,Europe & Central Asia,Upper middle income,2024,10491120732.0
+Nepal,NPL,South Asia,Lower middle income,2024,10152157326.0
+"Iran, Islamic Rep.",IRN,Middle East & North Africa,Upper middle income,2024,9654298896.0
+Montenegro,MNE,Europe & Central Asia,Upper middle income,2024,8741348456.0
+"Yemen, Rep.",YEM,Middle East & North Africa,Low income,2024,7086874767.0
+Tajikistan,TJK,Europe & Central Asia,Lower middle income,2024,6977429758.0
+Algeria,DZA,Middle East & North Africa,Upper middle income,2024,6898271361.0
+Gabon,GAB,Sub-Saharan Africa,Upper middle income,2024,6816627454.0
+"Congo, Rep.",COG,Sub-Saharan Africa,Lower middle income,2024,6728317971.0
+Madagascar,MDG,Sub-Saharan Africa,Low income,2024,6653640488.0
+Mali,MLI,Sub-Saharan Africa,Low income,2024,6439962214.0
+Guinea,GIN,Sub-Saharan Africa,Lower middle income,2024,5388299536.0
+Niger,NER,Sub-Saharan Africa,Low income,2024,5308857137.0
+Syrian Arab Republic,SYR,Middle East & North Africa,Low income,2024,4756737936.0
+Maldives,MDV,South Asia,Upper middle income,2024,4692462748.0
+Mauritania,MRT,Sub-Saharan Africa,Lower middle income,2024,4459916732.0
+Kosovo,XKX,Europe & Central Asia,Upper middle income,2024,4395488576.0
+Suriname,SUR,Latin America & Caribbean,Upper middle income,2024,4372357173.0
+Togo,TGO,Sub-Saharan Africa,Low income,2024,4294139883.0
+Fiji,FJI,East Asia & Pacific,Upper middle income,2024,3868919895.0
+Malawi,MWI,Sub-Saharan Africa,Low income,2024,3743648286.0
+Guyana,GUY,Latin America & Caribbean,High income,2024,3681569057.0
+Djibouti,DJI,Middle East & North Africa,Lower middle income,2024,3423638382.0
+Bhutan,BTN,South Asia,Lower middle income,2024,3400087106.0
+Chad,TCD,Sub-Saharan Africa,Low income,2024,3348359914.0
+Afghanistan,AFG,Middle East & North Africa,Low income,2024,3344095867.0
+Turkmenistan,TKM,Europe & Central Asia,Upper middle income,2024,3320400762.0
+Cabo Verde,CPV,Sub-Saharan Africa,Upper middle income,2024,2359581722.0
+Sierra Leone,SLE,Sub-Saharan Africa,Low income,2024,2329744049.0
+Botswana,BWA,Sub-Saharan Africa,Upper middle income,2024,2317990593.0
+Liberia,LBR,Sub-Saharan Africa,Low income,2024,2234742479.0
+"Somalia, Fed. Rep.",SOM,Sub-Saharan Africa,Low income,2024,1799443761.0
+Lesotho,LSO,Sub-Saharan Africa,Lower middle income,2024,1773147343.0
+"Gambia, The",GMB,Sub-Saharan Africa,Low income,2024,1642671191.0
+Belize,BLZ,Latin America & Caribbean,Upper middle income,2024,1558943631.0
+Guinea-Bissau,GNB,Sub-Saharan Africa,Low income,2024,1433190117.0
+Eswatini,SWZ,Sub-Saharan Africa,Lower middle income,2024,1238600512.0
+Equatorial Guinea,GNQ,Sub-Saharan Africa,Upper middle income,2024,1219531304.0
+St. Lucia,LCA,Latin America & Caribbean,Upper middle income,2024,1193706002.0
+Central African Republic,CAF,Sub-Saharan Africa,Low income,2024,1045905200.0
+Burundi,BDI,Sub-Saharan Africa,Low income,2024,1023879227.0
+Haiti,HTI,Latin America & Caribbean,Lower middle income,2024,944741012.3
+Grenada,GRD,Latin America & Caribbean,Upper middle income,2024,863278627.6
+St. Vincent and the Grenadines,VCT,Latin America & Caribbean,Upper middle income,2024,806447451.4
+Eritrea,ERI,Sub-Saharan Africa,Low income,2024,667267678.5
+Solomon Islands,SLB,East Asia & Pacific,Lower middle income,2024,596145038.0
+Dominica,DMA,Latin America & Caribbean,Upper middle income,2024,569530343.0
+Vanuatu,VUT,East Asia & Pacific,Lower middle income,2024,519876544.1
+Samoa,WSM,East Asia & Pacific,Upper middle income,2024,394938377.5
+Comoros,COM,Sub-Saharan Africa,Lower middle income,2024,385570286.6
+Sao Tome and Principe,STP,Sub-Saharan Africa,Lower middle income,2024,326406625.8
+Timor-Leste,TLS,East Asia & Pacific,Lower middle income,2024,296673869.1
+Tonga,TON,East Asia & Pacific,Upper middle income,2024,173176112.1

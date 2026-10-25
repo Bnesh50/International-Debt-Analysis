@@ -1,0 +1,197 @@
+INTERNATIONAL DEBT ANALYSIS - DATA INSPECTION
+============================================================
+
+Number of rows: 62983
+Number of columns: 39
+
+--- COLUMN NAMES ---
+Country Name
+Country Code
+Counterpart-Area Name
+Counterpart-Area Code
+Series Name
+Series Code
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+
+--- FIRST 5 ROWS ---
+Country Name Country Code Counterpart-Area Name Counterpart-Area Code                                                             Series Name Series Code  2000  2001  2002  2003  2004  2005    2006    2007    2008  2009    2010  2011  2012  2013    2014  2015  2016    2017  2018    2019  2020  2021  2022  2023  2024  2025  2026  2027  2028  2029  2030  2031  2032
+ Afghanistan   AFG                        World                   WLD           Average grace period on new external debt commitments (years) DT.GPA.DPPG   NaN   NaN   NaN   NaN   NaN   NaN 10.2500  8.0833  9.9575   0.0  7.8333   0.0   0.0   0.0 29.8333   0.0   0.0 19.8356   0.0 17.9041   0.0   0.0   0.0   0.0   0.0   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+ Afghanistan   AFG                        World                   WLD Average grace period on new external debt commitments, official (years) DT.GPA.OFFT   NaN   NaN   NaN   NaN   NaN   NaN 10.2500  8.0833  9.9575   0.0  7.8333   0.0   0.0   0.0 29.8333   0.0   0.0 19.8356   0.0 17.9041   0.0   0.0   0.0   0.0   0.0   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+ Afghanistan   AFG                        World                   WLD  Average grace period on new external debt commitments, private (years) DT.GPA.PRVT   NaN   NaN   NaN   NaN   NaN   NaN  0.0000  0.0000  0.0000   0.0  0.0000   0.0   0.0   0.0  0.0000   0.0   0.0  0.0000   0.0  0.0000   0.0   0.0   0.0   0.0   0.0   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+ Afghanistan   AFG                        World                   WLD              Average grant element on new external debt commitments (%) DT.GRE.DPPG   NaN   NaN   NaN   NaN   NaN   NaN 50.6176 43.0248 58.0061   0.0 21.2119   0.0   0.0   0.0 81.9289   0.0   0.0 64.2646   0.0 73.0790   0.0   0.0   0.0   0.0   0.0   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+ Afghanistan   AFG                        World                   WLD    Average grant element on new external debt commitments, official (%) DT.GRE.OFFT   NaN   NaN   NaN   NaN   NaN   NaN 50.6176 43.0248 58.0061   0.0 21.2119   0.0   0.0   0.0 81.9289   0.0   0.0 64.2646   0.0 73.0790   0.0   0.0   0.0   0.0   0.0   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+
+--- DATA TYPES ---
+Country Name                 str
+Country Code                 str
+Counterpart-Area Name        str
+Counterpart-Area Code        str
+Series Name                  str
+Series Code                  str
+2000                     float64
+2001                     float64
+2002                     float64
+2003                     float64
+2004                     float64
+2005                     float64
+2006                     float64
+2007                     float64
+2008                     float64
+2009                     float64
+2010                     float64
+2011                     float64
+2012                     float64
+2013                     float64
+2014                     float64
+2015                     float64
+2016                     float64
+2017                     float64
+2018                     float64
+2019                     float64
+2020                     float64
+2021                     float64
+2022                     float64
+2023                     float64
+2024                     float64
+2025                     float64
+2026                     float64
+2027                     float64
+2028                     float64
+2029                     float64
+2030                     float64
+2031                     float64
+2032                     float64
+
+--- DATASET INFORMATION ---
+<class 'pandas.DataFrame'>
+RangeIndex: 62983 entries, 0 to 62982
+Data columns (total 39 columns):
+ #   Column                 Non-Null Count  Dtype  
+---  ------                 --------------  -----  
+ 0   Country Name           62980 non-null  str    
+ 1   Country Code           62978 non-null  str    
+ 2   Counterpart-Area Name  62978 non-null  str    
+ 3   Counterpart-Area Code  62978 non-null  str    
+ 4   Series Name            62978 non-null  str    
+ 5   Series Code            62978 non-null  str    
+ 6   2000                   49490 non-null  float64
+ 7   2001                   49434 non-null  float64
+ 8   2002                   49262 non-null  float64
+ 9   2003                   49001 non-null  float64
+ 10  2004                   49195 non-null  float64
+ 11  2005                   49137 non-null  float64
+ 12  2006                   49394 non-null  float64
+ 13  2007                   49645 non-null  float64
+ 14  2008                   49497 non-null  float64
+ 15  2009                   49768 non-null  float64
+ 16  2010                   49761 non-null  float64
+ 17  2011                   49080 non-null  float64
+ 18  2012                   49008 non-null  float64
+ 19  2013                   49379 non-null  float64
+ 20  2014                   50504 non-null  float64
+ 21  2015                   50431 non-null  float64
+ 22  2016                   50192 non-null  float64
+ 23  2017                   50333 non-null  float64
+ 24  2018                   50296 non-null  float64
+ 25  2019                   50493 non-null  float64
+ 26  2020                   50956 non-null  float64
+ 27  2021                   50727 non-null  float64
+ 28  2022                   50721 non-null  float64
+ 29  2023                   50641 non-null  float64
+ 30  2024                   50590 non-null  float64
+ 31  2025                   12855 non-null  float64
+ 32  2026                   12760 non-null  float64
+ 33  2027                   12622 non-null  float64
+ 34  2028                   12432 non-null  float64
+ 35  2029                   12138 non-null  float64
+ 36  2030                   11967 non-null  float64
+ 37  2031                   11771 non-null  float64
+ 38  2032                   11566 non-null  float64
+dtypes: float64(33), str(6)
+memory usage: 24.3 MB
+
+
+--- MISSING VALUES ---
+Country Name                 3
+Country Code                 5
+Counterpart-Area Name        5
+Counterpart-Area Code        5
+Series Name                  5
+Series Code                  5
+2000                     13493
+2001                     13549
+2002                     13721
+2003                     13982
+2004                     13788
+2005                     13846
+2006                     13589
+2007                     13338
+2008                     13486
+2009                     13215
+2010                     13222
+2011                     13903
+2012                     13975
+2013                     13604
+2014                     12479
+2015                     12552
+2016                     12791
+2017                     12650
+2018                     12687
+2019                     12490
+2020                     12027
+2021                     12256
+2022                     12262
+2023                     12342
+2024                     12393
+2025                     50128
+2026                     50223
+2027                     50361
+2028                     50551
+2029                     50845
+2030                     51016
+2031                     51212
+2032                     51417
+
+--- EXACT DUPLICATE ROWS ---
+2
+
+--- UNIQUE COUNTRIES ---
+134
+
+--- UNIQUE INDICATORS ---
+576
+
+--- COUNTRY-INDICATOR DUPLICATE ROWS ---
+5

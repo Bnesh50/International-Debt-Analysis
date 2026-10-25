@@ -1,0 +1,16 @@
+Country Name,Country Code,Counterpart-Area Name,Counterpart-Area Code,Series Name,Series Code,Year,Debt Value
+Low & middle income,LMY,World,WLD,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2024,8940000000000.0
+Middle income,MIC,World,WLD,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2024,8690000000000.0
+Upper middle income,UMC,World,WLD,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2024,6360000000000.0
+East Asia & Pacific (excluding high income),EAP,World,WLD,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2024,3410000000000.0
+Lower middle income,LMC,World,WLD,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2024,2340000000000.0
+Latin America & Caribbean (excluding high income),LAC,World,WLD,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2024,2000000000000.0
+Europe & Central Asia (excluding high income),ECA,World,WLD,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2024,1170000000000.0
+IDA total,IDA,World,WLD,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2024,1170000000000.0
+Sub-Saharan Africa (excluding high income),SSA,World,WLD,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2024,901000000000.0
+South Asia,SAS,World,WLD,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2024,896000000000.0
+IDA only,IDX,World,WLD,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2024,710000000000.0
+Least developed countries: UN classification,LDC,World,WLD,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2024,604000000000.0
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,World,WLD,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2024,561000000000.0
+Low income,LIC,World,WLD,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2024,242000000000.0
+Ethiopia,ETH,World,WLD,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2024,36548259483.0

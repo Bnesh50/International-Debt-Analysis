@@ -1,0 +1,109 @@
+INTERNATIONAL DEBT ANALYSIS - EDA REPORT
+Observed data rows: 1,345,046
+Countries: 134
+Indicators: 576
+Years present: 2000 to 2032
+Missing debt values: 0
+Zero-valued observations: 160,699
+Negative-valued observations: 132,799
+
+======================================================================
+OBSERVATIONS BY YEAR
+======================================================================
+ Year  Observations  Countries  Indicators
+ 2000         49490        129         570
+ 2001         49434        129         571
+ 2002         49262        129         571
+ 2003         49001        129         569
+ 2004         49195        129         571
+ 2005         49137        129         566
+ 2006         49394        131         565
+ 2007         49645        131         565
+ 2008         49497        131         565
+ 2009         49768        131         565
+ 2010         49761        131         565
+ 2011         49080        131         565
+ 2012         49008        131         564
+ 2013         49379        131         564
+ 2014         50504        131         564
+ 2015         50431        133         564
+ 2016         50192        133         564
+ 2017         50333        133         564
+ 2018         50296        133         564
+ 2019         50493        134         560
+ 2020         50956        134         556
+ 2021         50727        134         562
+ 2022         50721        134         563
+ 2023         50641        134         566
+ 2024         50590        134         570
+ 2025         12855        134         149
+ 2026         12760        134         146
+ 2027         12622        134         146
+ 2028         12432        134         146
+ 2029         12138        134         146
+ 2030         11967        134         145
+ 2031         11771        134         145
+ 2032         11566        134         145
+
+======================================================================
+TOP 20 INDICATORS BY OBSERVATION COUNT
+======================================================================
+      Series Code                                                                                    Series Name  Observations  Countries  First_Year  Last_Year
+   DT.INT.DIMF.CD                                     IMF credit and SDR allocations, charges (INT, current US$)          4348        134        2000       2032
+   DT.TDS.DIMF.CD                                                 IMF repurchases and charges (TDS, current US$)          4348        134        2000       2032
+   DT.TDS.DECT.CD                                        Debt service on external debt, total (TDS, current US$)          4341        134        2000       2032
+   DT.TDS.DLXF.CD                                    Debt service on external debt, long-term (TDS, current US$)          4326        134        2000       2032
+   DT.INT.DLXF.CD                               Interest payments on external debt, long-term (INT, current US$)          4326        134        2000       2032
+   DT.TDS.DEPS.CD                          Debt service on external debt, public sector (PPG) (TDS, current US$)          4325        134        2000       2032
+   DT.INT.DPPG.CD    Interest payments on external debt, public and publicly guaranteed (PPG) (INT, current US$)          4325        134        2000       2032
+   DT.INT.DEPS.CD                     Interest payments on external debt, public sector (PPG) (INT, current US$)          4325        134        2000       2032
+   DT.TDS.DPPG.CD         Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)          4325        134        2000       2032
+   DT.AMT.DLXF.CD                            Principal repayments on external debt, long-term (AMT, current US$)          4325        134        2000       2032
+DT.TDS.OFFT.PS.CD                                                      PS, official creditors (TDS, current US$)          4324        134        2000       2032
+DT.TDS.OFFT.GG.CD                                                      GG, official creditors (TDS, current US$)          4324        134        2000       2032
+   DT.TDS.DEGG.CD              Debt service on external debt, general government sector (PPG) (TDS, current US$)          4324        134        2000       2032
+DT.INT.OFFT.PS.CD                                                      PS, official creditors (INT, current US$)          4324        134        2000       2032
+   DT.INT.OFFT.CD                                                     PPG, official creditors (INT, current US$)          4324        134        2000       2032
+   DT.INT.DEGG.CD         Interest payments on external debt, general government sector (PPG) (INT, current US$)          4324        134        2000       2032
+DT.TDS.MLAT.GG.CD                                                            GG, multilateral (TDS, current US$)          4324        134        2000       2032
+DT.TDS.MLAT.PS.CD                                                            PS, multilateral (TDS, current US$)          4324        134        2000       2032
+   DT.AMT.DPPG.CD Principal repayments on external debt, public and publicly guaranteed (PPG) (AMT, current US$)          4324        134        2000       2032
+   DT.TDS.MLAT.CD                                                   Multilateral debt service (TDS, current US$)          4324        134        2000       2032
+
+======================================================================
+DEBT VALUE STATISTICS
+======================================================================
+Statistic         Value
+    count  1.345046e+06
+     mean  9.493819e+09
+      std  2.068949e+11
+      min -5.270000e+11
+      25%  9.774158e+00
+      50%  2.257694e+07
+      75%  4.709786e+08
+      max  3.820000e+13
+
+======================================================================
+TOP 20 INDIVIDUAL DEBT OBSERVATIONS
+======================================================================
+       Country Name Country Code       Series Name    Series Code  Year   Debt Value
+Low & middle income          LMY GNI (current US$) NY.GNP.MKTP.CD  2024 3.820000e+13
+      Middle income          MIC GNI (current US$) NY.GNP.MKTP.CD  2024 3.760000e+13
+Low & middle income          LMY GNI (current US$) NY.GNP.MKTP.CD  2023 3.680000e+13
+      Middle income          MIC GNI (current US$) NY.GNP.MKTP.CD  2023 3.630000e+13
+Low & middle income          LMY GNI (current US$) NY.GNP.MKTP.CD  2022 3.570000e+13
+      Middle income          MIC GNI (current US$) NY.GNP.MKTP.CD  2022 3.520000e+13
+Low & middle income          LMY GNI (current US$) NY.GNP.MKTP.CD  2021 3.400000e+13
+      Middle income          MIC GNI (current US$) NY.GNP.MKTP.CD  2021 3.360000e+13
+Upper middle income          UMC GNI (current US$) NY.GNP.MKTP.CD  2024 2.990000e+13
+Low & middle income          LMY GNI (current US$) NY.GNP.MKTP.CD  2019 2.980000e+13
+      Middle income          MIC GNI (current US$) NY.GNP.MKTP.CD  2019 2.940000e+13
+Low & middle income          LMY GNI (current US$) NY.GNP.MKTP.CD  2018 2.900000e+13
+Low & middle income          LMY GNI (current US$) NY.GNP.MKTP.CD  2020 2.890000e+13
+Upper middle income          UMC GNI (current US$) NY.GNP.MKTP.CD  2023 2.890000e+13
+      Middle income          MIC GNI (current US$) NY.GNP.MKTP.CD  2018 2.860000e+13
+      Middle income          MIC GNI (current US$) NY.GNP.MKTP.CD  2020 2.850000e+13
+Upper middle income          UMC GNI (current US$) NY.GNP.MKTP.CD  2022 2.790000e+13
+Low & middle income          LMY GNI (current US$) NY.GNP.MKTP.CD  2017 2.730000e+13
+      Middle income          MIC GNI (current US$) NY.GNP.MKTP.CD  2017 2.700000e+13
+Upper middle income          UMC GNI (current US$) NY.GNP.MKTP.CD  2021 2.680000e+13

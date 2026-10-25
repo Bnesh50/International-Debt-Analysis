@@ -1,0 +1,21 @@
+INTERNATIONAL DEBT ANALYSIS - CLEANING REPORT
+=======================================================
+Original rows: 62983
+Original columns: 39
+Exact duplicate rows found: 2
+Rows after removing exact duplicates: 62981
+Rows with missing country/indicator identifiers: 3
+Year columns identified: 33
+Year range: 2000 to 2032
+Missing yearly debt observations excluded: 733228
+Valid debt observations retained: 1345046
+Rows involved in repeated country-indicator-year combinations: 0
+Final long-format rows: 1345046
+Final long-format columns: 8
+
+Files created in data/processed/
+- cleaned_debt_long.csv
+- cleaned_debt_wide.csv
+- exact_duplicates_for_review.csv
+- rows_missing_identifiers.csv
+- repeated_country_indicator_years.csv

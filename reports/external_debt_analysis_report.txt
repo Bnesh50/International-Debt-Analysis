@@ -1,0 +1,21 @@
+INTERNATIONAL DEBT ANALYSIS REPORT
+==================================================
+Indicator code: DT.DOD.DECT.CD
+Indicator: External debt stocks, total (DOD, current US$)
+Country count: 120
+Observation count: 2919
+First year: 2000
+Latest year: 2024
+
+TOP 10 COUNTRIES BY LATEST AVAILABLE OBSERVATION
+Country Name Country Code                    Region        Income Group  Year   Debt Value
+       China          CHN       East Asia & Pacific Upper middle income  2024 2.420000e+12
+       India          IND                South Asia Lower middle income  2024 7.160000e+11
+      Brazil          BRA Latin America & Caribbean Upper middle income  2024 6.050000e+11
+      Mexico          MEX Latin America & Caribbean Upper middle income  2024 5.910000e+11
+     Turkiye          TUR     Europe & Central Asia Upper middle income  2024 5.150000e+11
+   Indonesia          IDN       East Asia & Pacific Upper middle income  2024 4.210000e+11
+   Argentina          ARG Latin America & Caribbean Upper middle income  2024 2.420000e+11
+    Colombia          COL Latin America & Caribbean Upper middle income  2024 2.020000e+11
+     Ukraine          UKR     Europe & Central Asia Upper middle income  2024 1.930000e+11
+    Thailand          THA       East Asia & Pacific Upper middle income  2024 1.920000e+11
